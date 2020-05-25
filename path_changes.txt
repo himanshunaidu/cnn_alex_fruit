@@ -18,7 +18,3 @@ Line 160, 163, 173, 216: Change to the desired destination
 163: Change to where you want to save the testing accuracy
 173: Change to where you want the file logger
 216: Change to where you want to save the timer
-
-
-For the Dataset:
-Extract each .tcia file using the nbia data retriever
