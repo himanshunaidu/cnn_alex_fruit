@@ -1,5 +1,5 @@
 cnn_saver.py :
-Line 157, 160, 165, 176, 212 : Change to the desired destination
+Line 157, 160, 165, 176, 211, 219 : Change to the desired destination
 157: Change to where you want to save the network variables
 160: Change to where you want to save the network
 165: Change to where you want to save the number of steps the network has run
