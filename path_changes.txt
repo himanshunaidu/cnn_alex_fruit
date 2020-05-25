@@ -5,8 +5,8 @@ Line 157, 160, 165, 176, 212 : Change to the desired destination
 165: Change to where you want to save the number of steps the network has run
 166: Change to where you want to save the accuracy
 176: Change to where you want the file logger
-212: Change to where you want to save the number of steps the network has run
-209: Change to where you want to extract the variables from
+219: Change to where you want to save the number of steps the network has run
+211: Change to where you want to save the file that keeps track of the time required for each epoch
 
 retriever.py :
 Line 9: Change to where you want to extract the training dataset from (Where you have actually saved the dataset)
@@ -18,7 +18,3 @@ Line 160, 163, 173, 216: Change to the desired destination
 163: Change to where you want to save the testing accuracy
 173: Change to where you want the file logger
 216: Change to where you want to save the timer
-
-
-For the Dataset:
-Extract each .tcia file using the nbia data retriever
