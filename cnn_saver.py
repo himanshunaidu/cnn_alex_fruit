@@ -157,7 +157,7 @@ from tensorflow.python.saved_model.signature_def_utils_impl import predict_signa
 var_export_dir = '<PATH>/TempF4/variables.ckpt'
 saver = tf.train.Saver()
 
-#export_dir = '/TempF2/model1.ckpt'
+#export_dir = '<PATH>/TempF2/model1.ckpt'
 #builder = tf.saved_model.builder.SavedModelBuilder(export_dir)
 #print(builder._export_dir)
 #signature = predict_signature_def(inputs={'Image': x_image, 'True': y_true}, outputs={'Pred': y_pred})
